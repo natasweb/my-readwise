@@ -1,1 +1,152 @@
-
+- MySQLのEXPLAINを徹底解説!!
+  - http://nippondanji.blogspot.com/2009/03/mysqlexplain.html
+- Using filesort
+  - http://nippondanji.blogspot.com/2009/03/using-filesort.html
+- Linuxカーネルを読む前にやったこと
+  - http://komukomo.hatenablog.com/entry/2017/04/25/023455
+- Linuxのネットワーク監視コマンド「iftop」の使い方
+  - https://news.mynavi.jp/article/20180301-iftop_howto/
+- 九州商船の「弊社WEB予約サービスに対する不正アクセスに関する最終報告」は全てのエンジニアに読んでほしい
+  - http://www.orangeitems.com/entry/2018/04/02/202052
+- ソートを極める！ 〜 なぜソートを学ぶのか 〜
+  - https://qiita.com/drken/items/44c60118ab3703f7727f
+- ローグライク戦略RPG『For The King』「様々なジャンルが織りなすハーモニー」【注目インディーミニ問答】
+  - https://www.gamespark.jp/article/2018/05/05/80548.html
+- https://web.smartnews.com/articles/2GpoBPn8j4n
+  - https://web.smartnews.com/articles/2GpoBPn8j4n
+- React Native製アプリのクオリティを上げるために工夫した事
+  - https://blog.craftz.dog/lessons-learned-from-creating-my-mobile-app-to-build-a-high-quality-react-native-app-dcf021ce37ef
+- こんにちは！Cy-PSIRTの田口です。 本記事はサイボウズ サマーインターンシップ2024 プロダクトセキュリテ…
+  - http://blog.cybozu.io/entry/2018/08/08/080000
+- 能登の塩が隠し味！和菓子職人が作る絶品「金沢たい焼き」
+  - https://www.otoriyose.net/tatsujin/om0030/40809
+- '「紫野和久傳」のからすみ餅。
+  - https://asm.asahi.com/article/15552350
+- 【年越しそば】250種類以上の干し蕎麦を食べた男が選ぶ「間違いのないメーカー」4選 〜家そば放浪記番外編〜
+  - https://rocketnews24.com/2024/12/30/2393583/
+- 値の補間計算を簡潔に記述できる CSS の `progress` 関数
+  - https://azukiazusa.dev/blog/css-progress-function
+- 🚀分間数十万リクエストに耐える！チケット販売サービス：チケットペイのAWSスケーリング戦略と設計の裏側
+  - https://qiita.com/mamushi/items/561b07e61dd57996ccad
+- NewSQLとは何か？ SQL（RDBMS）やNoSQLとの違いと「いいとこどり」の特徴をマンガで解説
+  - https://codezine.jp/article/detail/21881
+- Vue, Nuxt, React, Next.js の特徴・役割・使いどころを整理する
+  - https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3
+- Next.js初心者向けガイドライン
+  - https://zenn.dev/hutonman/books/aeb2a5fd6e91ae
+- package.jsonのdependenciesをアップデートする技術
+  - https://tech.plaid.co.jp/techniques-for-updating-dependencies-in-packagejson
+- Reactフォルダ構造の最適解。コンポーネントの数に合わせて選ぶ基本方針
+  - https://levtech.jp/media/article/column/detail_711/
+- 「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう
+  - https://zenn.dev/livetoon/articles/04dccf642d324c
+- パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする
+  - https://zenn.dev/mountain1009/articles/21ea94fa1e7e08
+- 【JaveScript】エコシステムの全体像を理解する：主要ツール4カテゴリの機能と代表例
+  - https://qiita.com/Yasushi-Mo/items/680f5195c0ad0491d215
+- 【優先度順】Reactパフォーマンス改善ガイド：現場で効く最適化を影響度別に整理
+  - https://zenn.dev/mitsuo119/articles/9f024181695001
+- ポケモンで学ぶオブジェクト指向〜SOLID原則編〜
+  - https://qiita.com/basio/items/7f5f2730b425cd95d39c
+- 【考察】React は何故こんなに分かりにくいのか？
+  - https://zenn.dev/ak0047/articles/2026-01-react-difficulty
+- フロントエンドパフォーマンス完全ガイドを公開しました
+  - https://zenn.dev/gaku1234/articles/frontend-performance-guide-2026
+- React開発でよく聞くWebpack/Vite/SSR/SSG… 結局何なのか整理した
+  - https://qiita.com/gentarou/items/41521d099e374ecc731f
+- React開発者Dan Abramov氏のRSCの解説がとてもわかりやすいぞ！
+  - https://zenn.dev/dragon1208/articles/e076e650c96274
+- CSSカスタムプロパティをグリグリ動かせる「slideVars」が便利
+  - https://www.webcreatorbox.com/blog/slidevars
+- React 19の型定義では「FC」と「ReactNodeを返す関数」が違う
+  - https://qiita.com/uhyo/items/0d6797b848ed41d0e697
+- 1ボタンで8機能を割り当て可能。サンワサプライのプログラマブルボタンが面白い！
+  - https://l.smartnews.com/m-77gkf516/f4xo99
+- React に触れてみる (2) — useState に関するタイミング問題を観察する
+  - https://zenn.dev/derwind/articles/dwd-react-basic02
+- 無料であらゆるUIを黄金比で生成するオープンソースフレームワーク「LiftKit」
+  - https://gigazine.net/news/20260212-liftkit-ui/
+- 株のプロが教える「下がった時に買っていい株、ダメな株」
+  - https://l.smartnews.com/m-76MSZTVK/JFopmC
+- 副菜ビュッフェがうれしい！ スパイスカレーの人気店が神保町エリアに2号店をオープン
+  - https://magazine.tabelog.com/articles/487733
+- Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】
+  - https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24
+- useEffect で API を叩くのを卒業しよう
+  - https://zenn.dev/ashunar0/articles/32419c3c60cc53
+- '【世界先行】名店の「カニクリームパイ」が日本だけで解禁！料理王国3冠の「神パイ」新作が贅沢すぎて感動！サクサク生地が止まらない！ #Z世代Pick'
+  - https://l.smartnews.com/m-7bmCP9NC/PToO6S
+- 第１回（全５回）：React入門 — コンポーネントとJSXの基本
+  - https://qiita.com/ysawa/items/a197e951cf5212130ee6
+- 【株主優待ガイド】節約効果大！これだけある1円単位で使える株主銘柄10選
+  - https://l.smartnews.com/m-7bFEHWO4/OWXUg2
+- 和食料理人・野崎洋光さんが提案！ 目からウロコの「だし」の取り方
+  - https://l.smartnews.com/m-7bBeFIPe/KSJvM4
+- 【2026年版】カレーを愛する全ての人に伝えたい絶品カレー11選まとめ。王道からご当地カレーまで
+  - https://l.smartnews.com/m-7bAXEdck/5eZXP7
+- レンチンで時短発酵！蜂蜜×チーズが甘じょっぱい「フライパンでチーズナン」
+  - https://l.smartnews.com/m-7dx3vQfm/cxhHwR
+- WEBアプリ開発でよく使うデザインパターンを整理する
+  - https://zenn.dev/frontline/articles/1ded5a62ace83e
+- 【React】Strategyパターン実践編 〜マルチテナント対応を例に〜
+  - https://zenn.dev/sakisakiika/articles/f41abf4e0160a7
+- Reactデザインパターンに向き合う「なぜそのパターンを選ぶのか？」｜ONE CAREER Tech Blog
+  - https://note.com/dev_onecareer/n/n36c37a2b777d
+- 「再生122万回超え！鍋にドボン！」と入れる瞬間が快感！週末に切って冷凍するだけの『ねぎ豚塩レモン鍋』がQOL爆上がりする神アイデアだった
+  - https://l.smartnews.com/m-7gAV1NxC/efVZ5R
+- 【極上グルメ総集編】実際に食べて美味すぎて感動した焼肉屋10選 / 東京編
+  - https://l.smartnews.com/m-7fTQOYKI/XGikQq
+- ポテトグラタンより簡単。ドフィノアという、冬のごちそう
+  - https://l.smartnews.com/m-7eQq64ms/lAmx1t
+- 【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】
+  - https://qiita.com/Sicut_study/items/299a221088f5905332a4
+- 「高市銘柄の大本命は三菱重工で決まり」…株のプロたちが断言「まだまだ成長する」国策銘柄57
+  - https://gendai.media/articles/-/164493
+- 【5年で1億貯める】資産がみるみる増えていく「最強スクリーニング法」3つのポイント
+  - https://l.smartnews.com/m-7jg85vpK/PBxFsm
+- package.jsonの全フィールド解説：main・exports・type・enginesの正しい使い方
+  - https://zenn.dev/yuichi_ai/articles/package-json-fields-complete-guide
+- Rust製JSツールチェーンが主流になりつつある理由 — Biome・Oxc・Rolldown の実践ガイド
+  - https://zenn.dev/crebo_tech/articles/001-rust-js-toolchain
+- これはかなりおすすめ！ Reactを使えるようなりたい人に、入門書の決定版 -挫折しないReactの教科書
+  - https://coliss.com/articles/book-review/isbn-9784815636623.html
+- TypeScript時代におけるGoFデザインパターンの再考と、現代の代替手法10選
+  - https://qiita.com/ryuseiyarou/items/822cf3fb3f8c3ffb1e87
+- Reactのフラグ地獄を状態遷移テーブルで解消する — Discriminated Union×テーブル駆動設計の実践
+  - https://zenn.dev/okamyuji/articles/react-state-pattern-finite-state-machine
+- Reactコンポーネントの肥大化を防ぐ：hooksによる分離設計
+  - https://qiita.com/koichi2426/items/2df7e5c0a3e188d269c4
+- Reactにおけるカスタムフックの利用ガイド
+  - https://qiita.com/minoura_a/items/b03e0f28ed023712279b
+- シャキシャキ食感がクセになる！鶏の旨味とスパイスが絡む「ごぼうと鶏肉のカレー」
+  - https://news.livedoor.com/article/detail/30902274/
+- GitHub Copilot CLIを"タダ"で体系的に学べるコースをやってみた
+  - https://zenn.dev/microsoft/articles/9fb85cdca2fb84
+- '[Frontend Performance - Part 8] JavaScriptランタイム最適化：メインスレッドをブロックさせない設計とは？'
+  - https://qiita.com/tuanphan/items/d109bfd9a11bfbf2c100
+- '[Frontend Performance - Part 11] State設計最適化：無駄な再レンダリングを防ぐアーキテクチャ'
+  - https://qiita.com/tuanphan/items/5a8343dba7aa604f0a5b
+- 基本からしっかり学ぶフロントエンドテスト入門
+  - https://gihyo.jp/book/2026/978-4-297-15704-3
+- git を捨てずに、git の手前に立つ - Jujutsu (jj) の概念と、乗り換えの損益分岐点
+  - https://l.smartnews.com/m-7ZJPuC9G/6flx3k
+- Fable時代のAI活用法を、Anthropicの開発者が公開
+  - https://zenn.dev/knowledgesense/articles/283244af941a2d
+- React初学者が学ぶ、Reactのキホン part-1
+  - https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d
+- '[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました'
+  - https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/
+- フロントエンド開発に必要なツールをまとめて統合した「Vite+」、ベータ公開
+  - https://www.publickey1.jp/blog/26/vite.html
+- Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法
+  - https://zenn.dev/sonicmoov/articles/8712598f532b18
+- 【Switch 2】弓矢×弾幕×ローグライク！ 新作アクションシューティング『Ira』が7/30配信決定
+  - https://dengekionline.com/article/202607/81620
+- 【Claude Code×SDD】requirements→design→tasks→dev-report→QAの開発ワークフロー全公開
+  - https://zenn.dev/emuni/articles/claude-code-sdd-workflow-guide
+- AIを安く使うために、MCP/SKILLの棚卸しをした話
+  - https://zenn.dev/izumi_ren/articles/32bb2ea213c019
+- 【Claude Code】CLAUDE.mdのルールはClaude自身に書かせる 〜ガードレール&自動化Rule設計〜
+  - https://zenn.dev/m16_llc/articles/claude-code-claudemd-guardrails
+- jscpd で重複コードを機械的に潰す — 定期監査とCI差分チェックの二段構え
+  - https://zenn.dev/singularity/articles/jscpd-dry-detection-mono
