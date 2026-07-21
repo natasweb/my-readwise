@@ -42,8 +42,6 @@
   - https://zenn.dev/livetoon/articles/04dccf642d324c
 - パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする
   - https://zenn.dev/mountain1009/articles/21ea94fa1e7e08
-- 【JaveScript】エコシステムの全体像を理解する：主要ツール4カテゴリの機能と代表例
-  - https://qiita.com/Yasushi-Mo/items/680f5195c0ad0491d215
 - 【優先度順】Reactパフォーマンス改善ガイド：現場で効く最適化を影響度別に整理
   - https://zenn.dev/mitsuo119/articles/9f024181695001
 - ポケモンで学ぶオブジェクト指向〜SOLID原則編〜
@@ -52,10 +50,6 @@
   - https://zenn.dev/ak0047/articles/2026-01-react-difficulty
 - フロントエンドパフォーマンス完全ガイドを公開しました
   - https://zenn.dev/gaku1234/articles/frontend-performance-guide-2026
-- React開発でよく聞くWebpack/Vite/SSR/SSG… 結局何なのか整理した
-  - https://qiita.com/gentarou/items/41521d099e374ecc731f
-- React開発者Dan Abramov氏のRSCの解説がとてもわかりやすいぞ！
-  - https://zenn.dev/dragon1208/articles/e076e650c96274
 - CSSカスタムプロパティをグリグリ動かせる「slideVars」が便利
   - https://www.webcreatorbox.com/blog/slidevars
 - React 19の型定義では「FC」と「ReactNodeを返す関数」が違う
@@ -64,10 +58,6 @@
   - https://l.smartnews.com/m-77gkf516/f4xo99
 - React に触れてみる (2) — useState に関するタイミング問題を観察する
   - https://zenn.dev/derwind/articles/dwd-react-basic02
-- 無料であらゆるUIを黄金比で生成するオープンソースフレームワーク「LiftKit」
-  - https://gigazine.net/news/20260212-liftkit-ui/
-- 株のプロが教える「下がった時に買っていい株、ダメな株」
-  - https://l.smartnews.com/m-76MSZTVK/JFopmC
 - 副菜ビュッフェがうれしい！ スパイスカレーの人気店が神保町エリアに2号店をオープン
   - https://magazine.tabelog.com/articles/487733
 - Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】
@@ -78,8 +68,6 @@
   - https://l.smartnews.com/m-7bmCP9NC/PToO6S
 - 第１回（全５回）：React入門 — コンポーネントとJSXの基本
   - https://qiita.com/ysawa/items/a197e951cf5212130ee6
-- 【株主優待ガイド】節約効果大！これだけある1円単位で使える株主銘柄10選
-  - https://l.smartnews.com/m-7bFEHWO4/OWXUg2
 - 和食料理人・野崎洋光さんが提案！ 目からウロコの「だし」の取り方
   - https://l.smartnews.com/m-7bBeFIPe/KSJvM4
 - 【2026年版】カレーを愛する全ての人に伝えたい絶品カレー11選まとめ。王道からご当地カレーまで
@@ -104,8 +92,6 @@
   - https://gendai.media/articles/-/164493
 - 【5年で1億貯める】資産がみるみる増えていく「最強スクリーニング法」3つのポイント
   - https://l.smartnews.com/m-7jg85vpK/PBxFsm
-- package.jsonの全フィールド解説：main・exports・type・enginesの正しい使い方
-  - https://zenn.dev/yuichi_ai/articles/package-json-fields-complete-guide
 - Rust製JSツールチェーンが主流になりつつある理由 — Biome・Oxc・Rolldown の実践ガイド
   - https://zenn.dev/crebo_tech/articles/001-rust-js-toolchain
 - これはかなりおすすめ！ Reactを使えるようなりたい人に、入門書の決定版 -挫折しないReactの教科書
@@ -118,12 +104,8 @@
   - https://qiita.com/koichi2426/items/2df7e5c0a3e188d269c4
 - Reactにおけるカスタムフックの利用ガイド
   - https://qiita.com/minoura_a/items/b03e0f28ed023712279b
-- シャキシャキ食感がクセになる！鶏の旨味とスパイスが絡む「ごぼうと鶏肉のカレー」
-  - https://news.livedoor.com/article/detail/30902274/
 - GitHub Copilot CLIを"タダ"で体系的に学べるコースをやってみた
   - https://zenn.dev/microsoft/articles/9fb85cdca2fb84
-- '[Frontend Performance - Part 8] JavaScriptランタイム最適化：メインスレッドをブロックさせない設計とは？'
-  - https://qiita.com/tuanphan/items/d109bfd9a11bfbf2c100
 - '[Frontend Performance - Part 11] State設計最適化：無駄な再レンダリングを防ぐアーキテクチャ'
   - https://qiita.com/tuanphan/items/5a8343dba7aa604f0a5b
 - 基本からしっかり学ぶフロントエンドテスト入門
@@ -138,15 +120,15 @@
   - https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/
 - フロントエンド開発に必要なツールをまとめて統合した「Vite+」、ベータ公開
   - https://www.publickey1.jp/blog/26/vite.html
-- Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法
-  - https://zenn.dev/sonicmoov/articles/8712598f532b18
-- 【Switch 2】弓矢×弾幕×ローグライク！ 新作アクションシューティング『Ira』が7/30配信決定
-  - https://dengekionline.com/article/202607/81620
 - 【Claude Code×SDD】requirements→design→tasks→dev-report→QAの開発ワークフロー全公開
   - https://zenn.dev/emuni/articles/claude-code-sdd-workflow-guide
-- AIを安く使うために、MCP/SKILLの棚卸しをした話
-  - https://zenn.dev/izumi_ren/articles/32bb2ea213c019
 - 【Claude Code】CLAUDE.mdのルールはClaude自身に書かせる 〜ガードレール&自動化Rule設計〜
   - https://zenn.dev/m16_llc/articles/claude-code-claudemd-guardrails
-- jscpd で重複コードを機械的に潰す — 定期監査とCI差分チェックの二段構え
-  - https://zenn.dev/singularity/articles/jscpd-dry-detection-mono
+- '`minimumReleaseAge`相当の機能の比較（pnpm / npm / Yarn / Deno / Bun）'
+  - https://zenn.dev/okayurisotto/articles/eaea301090f1cf
+- 【最新】AI設計はループからグラフへ。「Graph Engineering」という次の設計思想
+  - https://note.com/kawaidesign/n/n9f6890665e5b
+- 'Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る'
+  - https://zenn.dev/uhyo/articles/async-react-action-queue
+- 数理最適化×機械学習の融合技術「MOAI」を駆使し、3日間でビジネス課題のプロトタイプを構築・検証する実践型開発プログラム「MOAI Bootcamp」を提供開始
+  - https://prtimes.jp/main/html/rd/p/000000006.000156343.html
